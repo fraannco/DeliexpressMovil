@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "315044634579",
+    "project_id": "deliexpress-47361",
+    "storage_bucket": "deliexpress-47361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315044634579:android:5897d4eda8b19aff0fd926",
+        "android_client_info": {
+          "package_name": "com.example.deliexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315044634579-37ojk2jt8qu75vnv4si8iv0c61ppgst4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deliexpress",
+            "certificate_hash": "a4efd7ff17dfd9f4f501f628a676eef1857307d1"
+          }
+        },
+        {
+          "client_id": "315044634579-slf2r0l2p0gdtb6inmkjfd22upm94bh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTvB8Drsl9fpptZu0I654iAF92TS3TgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315044634579-slf2r0l2p0gdtb6inmkjfd22upm94bh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
